@@ -1,2 +1,9 @@
-# POO-Actividad-1
-Actividad 1 - Programación Orientada a Objetos
+# Universidad Nacional de Colombia-sede Medellin
+
+## Programación Orientada a Objetos
+
+### Exercises Activity 1: 10% Individual
+
+**Estudiante:** Owen Santiago Baquero Suarez
+
+**Docente:** Walter Hugo Arboleda Mazo
